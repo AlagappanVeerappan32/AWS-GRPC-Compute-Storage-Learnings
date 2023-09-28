@@ -1,4 +1,4 @@
-AWS-GCP Compute & Storage Learnings: Welcome to the AWS-GCP Compute & Storage Learnings repository. This repository documents the practical application of key compute and storage mechanisms provided by AWS, focusing on AWS Elastic Compute (EC2) instances and Simple Storage Service (S3). Additionally, this project introduces you to the gRPC framework for building efficient APIs.
+AWS-GRPC Compute & Storage Learnings: Welcome to the AWS-GCP Compute & Storage Learnings repository. This repository documents the practical application of key compute and storage mechanisms provided by AWS, focusing on AWS Elastic Compute (EC2) instances and Simple Storage Service (S3). Additionally, this project introduces you to the gRPC framework for building efficient APIs.
 
 ---
 
